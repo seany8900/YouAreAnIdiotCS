@@ -23,3 +23,4 @@ If you still have a problem there is a more detailed guide here https://www.wiki
 Alternatively, you can scan your PC with AdwCleaner this didn't work for me on Windows 10 Home though.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Always remember to be careful when testing malware. This remake of youareanidiot will not cause any permanant harm to your PC unless for some reason you cant enable task manager
+https://www.virustotal.com/gui/file/28c55e5b06ab2cb972e59be1765174e1bddbc9df22a131367bde5d95a0690165/detection Here is a VT if you want
